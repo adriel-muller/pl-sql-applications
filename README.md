@@ -1,2 +1,2 @@
 # pl-sql-applications
-studies and applications in PL/SQL
+Studies and applications in PL/SQL
